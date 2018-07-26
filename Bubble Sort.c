@@ -2,33 +2,34 @@
 
 int main()
 {
-  int array[100], n, i, j, swap;
+    int array[100], n, i, j, swap;
 
-  printf("Enter number of elements\n");
-  scanf("%d", &n);
+    printf("Enter the size of array:");
+    scanf("%d", &n);
 
-  printf("Enter %d integers\n", n);
-
-  for (i = 0; i < n; i++)
-    scanf("%d", &array[i]);
-
-  for (i = 0 ; i < n - 1; i++)
-  {
-    for (j = i+1 ; j < n; j++)
+    printf("Enter the element of the array:");
+    for (i = 0; i < n; i++)
     {
-      if (array[i] > array[j])
-      {
-        swap       = array[i];
-        array[i]   = array[j];
-        array[j] = swap;
-      }
+        scanf("%d", &array[i]);
     }
-  }
 
-  printf("Sorted list in ascending order:\n");
+    for (i = 0 ; i < n - 1; i++)
+    {
+        for (j = i+1 ; j < n; j++)
+        {
+            if (array[i] > array[j])
+            {
+                swap       = array[i];
+                array[i]   = array[j];
+                array[j] = swap;
+            }
+        }
+    }
 
-  for (i = 0; i < n; i++)
-     printf("%d\n", array[i]);
+    printf("After Sorting:\n");
 
-  return 0;
+    for (i = 0; i < n; i++)
+        printf("%d\n", array[i]);
+
+    return 0;
 }

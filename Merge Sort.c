@@ -1,10 +1,10 @@
 #include<stdio.h>
 
-void merge(int arr[], int l, int m, int r)
+void merge(int arr[], int l, int m, int h)
 {
     int i, j, k;
     int n1 = m - l + 1;
-    int n2 =  r - m;
+    int n2 =  h - m;
 
     int L[n1], R[n2];
 
@@ -46,16 +46,16 @@ void merge(int arr[], int l, int m, int r)
     }
 }
 
-void mergeSort(int arr[], int l, int r)
+void mergeSort(int arr[], int l, int h)
 {
-    if (l < r)
+    if (l < h)
     {
-        int m = l+(r-l)/2;
+        int m = l+(h-l)/2;
 
         mergeSort(arr, l, m);
-        mergeSort(arr, m+1, r);
+        mergeSort(arr, m+1, h);
 
-        merge(arr, l, m, r);
+        merge(arr, l, m, h);
     }
 }
 
