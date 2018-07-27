@@ -1,7 +1,8 @@
-
-
-/** My Online Submit Link: https://www.hackerearth.com/submission/18425420/
-**/
+/*                                    rabby.code
+                                    Md.Golam Rabbani
+                            Insect colony  - https://www.hackerearth.com/submissions/rabby.code/
+                                        2018
+                                    */
 
 
 

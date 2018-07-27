@@ -1,7 +1,8 @@
-
-
-/** My Online Submit Link: https://www.hackerearth.com/submission/18420212/
-**/
+/*                                    rabby.code
+                                    Md.Golam Rabbani
+                            Monk visits Coderland - https://www.hackerearth.com/submissions/rabby.code/
+                                        2018
+                                    */
 
 
 

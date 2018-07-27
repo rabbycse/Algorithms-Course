@@ -1,3 +1,10 @@
+/*                                    rabby.code
+                                    Md.Golam Rabbani
+                           Super Two Letter Strings - https://www.hackerearth.com/submissions/rabby.code/
+                                        2018
+                                    */
+
+
 #include<stdio.h>
 
 long long func(int n,int p,int si,int counter,long long* dp )

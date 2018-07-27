@@ -1,6 +1,8 @@
-
-/** My Online Submit Link: https://www.hackerearth.com/submission/18478801/
-**/
+/*                                    rabby.code
+                                    Md.Golam Rabbani
+                           Studious Little Jhool  - https://www.hackerearth.com/submissions/rabby.code/
+                                        2018
+                                    */
 
 
 

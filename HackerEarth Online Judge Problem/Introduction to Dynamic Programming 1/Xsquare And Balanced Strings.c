@@ -1,6 +1,8 @@
-
-/** My Online Submit Link: https://www.hackerearth.com/submission/18456298/
-**/
+/*                                    rabby.code
+                                    Md.Golam Rabbani
+                           Xsquare And Balanced Strings - https://www.hackerearth.com/submissions/rabby.code/
+                                        2018
+                                    */
 
 
 

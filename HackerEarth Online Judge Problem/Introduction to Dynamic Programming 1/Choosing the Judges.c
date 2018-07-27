@@ -1,3 +1,9 @@
+/*                                    rabby.code
+                                    Md.Golam Rabbani
+                           Choosing the Judges - https://www.hackerearth.com/submissions/rabby.code/
+                                        2018
+                                    */
+
 #include <stdio.h>
 long int n;
 int max(int a, int b){

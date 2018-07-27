@@ -1,3 +1,9 @@
+/*                                    rabby.code
+                                    Md.Golam Rabbani
+                           Odd-Even Subarrays - https://www.hackerearth.com/submissions/rabby.code/
+                                        2018
+                                    */
+
 #include <stdio.h>
  
 int main(){

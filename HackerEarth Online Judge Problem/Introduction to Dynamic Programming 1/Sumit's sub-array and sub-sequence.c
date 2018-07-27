@@ -1,3 +1,10 @@
+/*                                    rabby.code
+                                    Md.Golam Rabbani
+                           Sumit's sub-array and sub-sequence  - https://www.hackerearth.com/submissions/rabby.code/
+                                        2018
+                                    */
+									
+									
 #include<stdio.h>
 
 long kadane(int n,long* arr)

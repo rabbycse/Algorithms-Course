@@ -1,3 +1,9 @@
+/*                                    rabby.code
+                                    Md.Golam Rabbani
+                           Shubham and GCD - https://www.hackerearth.com/submissions/rabby.code/
+                                        2018
+                                    */
+
 #include<stdio.h>
 long gcd(long n1,long n2);
 void main()

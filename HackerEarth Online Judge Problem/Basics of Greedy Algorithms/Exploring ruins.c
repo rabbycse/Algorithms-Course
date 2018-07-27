@@ -1,6 +1,8 @@
-
-/** My Online Submit Link: https://www.hackerearth.com/submission/18419789/
-**/
+/*                                    rabby.code
+                                    Md.Golam Rabbani
+                            Exploring ruins  - https://www.hackerearth.com/submissions/rabby.code/
+                                        2018
+                                    */
 
 
 

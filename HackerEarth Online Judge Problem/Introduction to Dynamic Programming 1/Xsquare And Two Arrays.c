@@ -1,6 +1,8 @@
-
-/** My Online Submit Link: https://www.hackerearth.com/submission/18421642/
-**/
+/*                                    rabby.code
+                                    Md.Golam Rabbani
+                           Xsquare And Two Arrays - https://www.hackerearth.com/submissions/rabby.code/
+                                        2018
+                                    */
 
 
 

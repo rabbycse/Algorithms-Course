@@ -1,3 +1,9 @@
+/*                                    rabby.code
+                                    Md.Golam Rabbani
+                           Prime Numbers Again - https://www.hackerearth.com/submissions/rabby.code/
+                                        2018
+                                    */
+
 #include <stdio.h>
 #include <math.h>
 #include <string.h>

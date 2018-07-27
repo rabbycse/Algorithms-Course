@@ -1,3 +1,9 @@
+/*                                    rabby.code
+                                    Md.Golam Rabbani
+                            Jumping Champa  - https://www.hackerearth.com/submissions/rabby.code/
+                                        2018
+                                    */
+
 int main()
 {
 	int i,t,q,n;

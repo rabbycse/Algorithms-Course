@@ -1,3 +1,10 @@
+/*                                    rabby.code
+                                    Md.Golam Rabbani
+                             Assorted Arrangement  - https://www.hackerearth.com/submissions/rabby.code/
+                                        2018
+                                    */
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

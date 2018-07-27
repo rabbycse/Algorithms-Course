@@ -1,3 +1,9 @@
+/*                                    rabby.code
+                                    Md.Golam Rabbani
+                            Mathison and the funny subarray - https://www.hackerearth.com/submissions/rabby.code/
+                                        2018
+                                    */
+
 #include<stdio.h>
 #include<math.h>
 int main()

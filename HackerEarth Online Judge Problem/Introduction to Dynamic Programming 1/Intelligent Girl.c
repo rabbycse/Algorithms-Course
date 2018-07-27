@@ -1,6 +1,8 @@
-
-/**  My Online Submit Link:  https://www.hackerearth.com/submission/18454049/ 
-**/
+/*                                    rabby.code
+                                    Md.Golam Rabbani
+                           Intelligent Girl - https://www.hackerearth.com/submissions/rabby.code/
+                                        2018
+                                    */
 
 
 

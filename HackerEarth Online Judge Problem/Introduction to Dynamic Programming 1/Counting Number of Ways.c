@@ -1,3 +1,9 @@
+/*                                    rabby.code
+                                    Md.Golam Rabbani
+                           Counting Number of Ways - https://www.hackerearth.com/submissions/rabby.code/
+                                        2018
+                                    */
+
 #include<stdio.h>
 long long int dp[102][10004];
 int t,n,k;

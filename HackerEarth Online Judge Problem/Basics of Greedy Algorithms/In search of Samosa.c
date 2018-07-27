@@ -1,3 +1,9 @@
+/*                                    rabby.code
+                                    Md.Golam Rabbani
+                            In search of Samosa  - https://www.hackerearth.com/submissions/rabby.code/
+                                        2018
+                                    */
+
 #include<stdio.h>
 int main()
 {

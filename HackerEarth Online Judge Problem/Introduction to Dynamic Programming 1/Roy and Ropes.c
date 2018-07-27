@@ -1,3 +1,9 @@
+/*                                    rabby.code
+                                    Md.Golam Rabbani
+                           Roy and Ropes - https://www.hackerearth.com/submissions/rabby.code/
+                                        2018
+                                    */
+
 #include <stdio.h>
 long a[1000005],b[1000005];
 int max(int a, int b){

@@ -1,6 +1,8 @@
-
-/** My Online Submit Link: https://www.hackerearth.com/submission/18424958/
-**/
+/*                                    rabby.code
+                                    Md.Golam Rabbani
+                           Swap It - https://www.hackerearth.com/submissions/rabby.code/
+                                        2018
+                                    */
 
 
 

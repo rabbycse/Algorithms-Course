@@ -1,3 +1,10 @@
+/*                                    rabby.code
+                                    Md.Golam Rabbani
+                             Array's force  - https://www.hackerearth.com/submissions/rabby.code/
+                                        2018
+                                    */
+
+
 #include <stdio.h>
 
 int main()

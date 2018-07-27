@@ -1,3 +1,10 @@
+/*                                    rabby.code
+                                    Md.Golam Rabbani
+                           One Swap to Palindrome - https://www.hackerearth.com/submissions/rabby.code/
+                                        2018
+                                    */
+
+
 #include<stdio.h>
 typedef long long ll;
 int main()

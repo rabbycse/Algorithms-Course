@@ -1,3 +1,10 @@
+/*                                    rabby.code
+                                    Md.Golam Rabbani
+                            Help Sachin Dev Sahoo  - https://www.hackerearth.com/submissions/rabby.code/
+                                        2018
+                                    */
+
+
 #include<string.h>
 #include <stdio.h>
 

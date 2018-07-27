@@ -1,6 +1,8 @@
-
-/** My Online Submit Link: https://www.hackerearth.com/submission/18455323/
-**/
+/*                                    rabby.code
+                                    Md.Golam Rabbani
+                           Win-the-Game - https://www.hackerearth.com/submissions/rabby.code/
+                                        2018
+                                    */
 
 
 

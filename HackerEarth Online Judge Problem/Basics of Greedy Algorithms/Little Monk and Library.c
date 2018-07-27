@@ -1,3 +1,9 @@
+/*                                    rabby.code
+                                    Md.Golam Rabbani
+                            Little Monk and Library - https://www.hackerearth.com/submissions/rabby.code/
+                                        2018
+                                    */
+
 #include<stdio.h>
 int arr[1000000],arr1[1000000];
 int main()

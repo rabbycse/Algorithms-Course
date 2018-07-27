@@ -1,3 +1,10 @@
+/*                                    rabby.code
+                                    Md.Golam Rabbani
+                            Little Jhool and his punishment - https://www.hackerearth.com/submissions/rabby.code/
+                                        2018
+                                    */
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

@@ -1,3 +1,10 @@
+/*                                    rabby.code
+                                    Md.Golam Rabbani
+                             47's Code  - https://www.hackerearth.com/submissions/rabby.code/
+                                        2018
+                                    */
+
+
 #include <stdio.h>
 
 int main()

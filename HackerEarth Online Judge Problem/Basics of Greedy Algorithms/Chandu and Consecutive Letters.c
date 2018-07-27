@@ -1,6 +1,8 @@
-
-/** My online Submit Link: https://www.hackerearth.com/submission/18420057/
-**/
+/*                                    rabby.code
+                                    Md.Golam Rabbani
+                             Chandu and Consecutive Letters  - https://www.hackerearth.com/submissions/rabby.code/
+                                        2018
+                                    */
 
 
 
