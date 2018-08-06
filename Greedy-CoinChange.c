@@ -4,10 +4,10 @@ int main ()
 {
     int n, coin[100], use[100], i, owed;
 
-    printf("Enter number of denominations : ");
+    printf("Enter number of item: ");
     scanf("%d", &n);
 
-    printf("\nEnter the denominations in descending order: ");
+    printf("\nEnter the coin value: ");
 
     for(i=0; i< n; i++)
     {
@@ -26,6 +26,6 @@ int main ()
     printf("\nSolution: \n");
     for(i=0; i < n; i++)
     {
-        printf("%d is use these: %d \n", coin[i], use[i]);
+        printf("%d is used these: %d \n", coin[i], use[i]);
     }
 }
